@@ -30,7 +30,7 @@ As a **Junior Developer**, this project is at a beginner-friendly level and demo
 - Vue.js
 - HTML5, CSS3, JavaScript
 - Free APIs
-
+- Font Morabba
 ---
 
 ## 📌 Notes
@@ -89,6 +89,7 @@ npm run build
 - Vue.js
 - HTML5, CSS3, JavaScript
 - APIهای رایگان
+- فونت مربع
 
 ---
 
