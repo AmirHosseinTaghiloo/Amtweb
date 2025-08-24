@@ -1,0 +1,12 @@
+
+@font-face {
+    font-family: 'Morabba';
+    src: url('~assets/fonts/Morabba-Medium.woff2') format('woff2'),
+         url('~assets/fonts/Morabba-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  body {
+    font-family: 'Morabba', sans-serif;
+  }

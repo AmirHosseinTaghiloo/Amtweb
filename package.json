@@ -1,0 +1,23 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/ui": "^3.0.0-beta.2",
+    "esbuild": "^0.25.8",
+    "nuxt": "^4.0.2",
+    "vue": "latest",
+    "vue-observe-visibility": "^1.0.0",
+    "vue-router": "latest"
+  },
+  "devDependencies": {
+    "@iconify-json/lucide": "^1.2.27"
+  }
+}
