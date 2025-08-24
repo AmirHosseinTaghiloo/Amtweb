@@ -41,7 +41,7 @@ As a **Junior Developer**, this project is at a beginner-friendly level and demo
 ---
 
 ## 📷 Preview
-(Here you can add screenshots of your project pages)
+![Project Screenshot](https://github.com/AmirHosseinTaghiloo/Amtweb/blob/main/img/screencapture-localhost-3000-2025-08-24-10_10_59.png)
 
 ---
 
