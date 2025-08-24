@@ -42,6 +42,7 @@ As a **Junior Developer**, this project is at a beginner-friendly level and demo
 
 ## 📷 Preview
 ![Project Screenshot](https://github.com/AmirHosseinTaghiloo/Amtweb/blob/main/img/screencapture-localhost-3000-2025-08-24-10_10_59.png)
+![Project Screenshot](https://github.com/AmirHosseinTaghiloo/Amtweb/blob/main/img/screencapture-localhost-3000-2025-08-24-10_11_17.png)
 
 ---
 
@@ -101,7 +102,8 @@ npm run build
 ---
 
 ## 📷 پیش‌نمایش
-(اینجا می‌تونی اسکرین‌شات از صفحات پروژه بزاری)
+![Project Screenshot](https://github.com/AmirHosseinTaghiloo/Amtweb/blob/main/img/screencapture-localhost-3000-2025-08-24-10_10_59.png)
+![Project Screenshot](https://github.com/AmirHosseinTaghiloo/Amtweb/blob/main/img/screencapture-localhost-3000-2025-08-24-10_11_17.png)
 
 ---
 
